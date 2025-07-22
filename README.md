@@ -1,1 +1,2 @@
-# Most of the articles are written by AI according to the outline or customized topics
+# 大部分是AI按照提纲或者自定义主题写的文章
+# 通过AI查找的资料索引，你会发现很多令人感兴趣但长期被忽视的一些理论和观点。
