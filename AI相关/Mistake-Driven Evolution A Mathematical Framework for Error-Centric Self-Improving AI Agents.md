@@ -2,11 +2,11 @@
 title: "Mistake-Driven Evolution: A Mathematical Framework for Error-Centric Self-Improving AI Agents"
 subtitle: "将错题驱动学习系统化映射到智能体自进化——收敛性、泛化界与创新性分析"
 author:
-  - name: Yuanbao Research
+  - name: LSG
     affiliation: 1
 address:
   - code: 1
-    address: AI Research Lab
+    address: AI Research
 date: "2026-09-13"
 abstract: |
   We introduce **Mistake-Driven Evolution (MDE)**, a principled framework for autonomous
